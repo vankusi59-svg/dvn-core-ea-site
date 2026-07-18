@@ -1,0 +1,9 @@
+{
+  "name": "DVN CORE MT5 Expert Advisors",
+  "short_name": "DVN CORE",
+  "start_url": "/dvn-core-ea-site/",
+  "display": "standalone",
+  "background_color": "#f2f0e8",
+  "theme_color": "#111511",
+  "icons": []
+}

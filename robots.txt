@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vankusi59-svg.github.io/dvn-core-ea-site/sitemap.xml
